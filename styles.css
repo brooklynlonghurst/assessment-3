@@ -1,0 +1,70 @@
+body {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+nav {
+	border-bottom: 2px solid orange;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: crimson;
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+	text-align: center;
+}
+
+
+.favColor {
+	padding: 10px;
+	background-color: yellow
+}
+
+.favPlace {
+	padding: 10px;
+	background-color: yellow
+}
+
+.favRitual {
+	padding: 10px;
+	background-color: yellow
+}
+
+.PGpic {
+	text-align: center;
+}
+
+#restaurantButton {
+	padding: 10px;
+	background-color: yellow
+}
